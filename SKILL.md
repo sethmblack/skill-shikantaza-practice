@@ -3,8 +3,9 @@ name: shikantaza-practice
 description: The complete methodology for "just sitting" — the Soto Zen practice of seated meditation without object, goal, or technique, derived from Dogen Zenji's teaching that zazen is not a means to enlight...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4967
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - shikantaza-practice
 - writing
