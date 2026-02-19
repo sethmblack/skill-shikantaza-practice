@@ -4,7 +4,7 @@ description: The complete methodology for "just sitting" — the Soto Zen practi
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4967
+  version: 1.0.4968
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - shikantaza-practice
